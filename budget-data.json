@@ -1,0 +1,43 @@
+{
+  "expenses": [],
+  "recurringBills": [
+    {
+      "id": "rec-ele",
+      "name": "Elektrina",
+      "category": "byvanie",
+      "amount": 65,
+      "dueDay": 15
+    },
+    {
+      "id": "rec-voda",
+      "name": "Voda",
+      "category": "byvanie",
+      "amount": 22,
+      "dueDay": 18
+    },
+    {
+      "id": "rec-plyn",
+      "name": "Plyn",
+      "category": "byvanie",
+      "amount": 38,
+      "dueDay": 20
+    }
+  ],
+  "customCategories": [],
+  "settings": {
+    "monthlyBudget": null,
+    "categoryBudgets": {},
+    "members": [
+      {
+        "id": "m1",
+        "name": "Ja",
+        "color": "#CC8A5C"
+      },
+      {
+        "id": "m2",
+        "name": "Partner/ka",
+        "color": "#7FA5C4"
+      }
+    ]
+  }
+}
